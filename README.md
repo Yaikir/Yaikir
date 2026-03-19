@@ -1,5 +1,28 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/be/5e/55/be5e55d43ddd45c712c3539578a1d270.jpg"  />
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Yaikir/Yaikir/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **Yaikir/Yaikir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
